@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: simple-express-app
+  annotations:
+    github.com/project-slug: mahergzam/simple-express-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: harness_account_all_users
